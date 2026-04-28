@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f8d4fd;
+    background-color: #d3c6d6;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,7 +17,7 @@ p, label {
 }
 
 input {
-    border: nome;
+    border: none;
     border-bottom: 1px solid #ccc;
     padding: 10px 0;
 }
@@ -26,3 +26,12 @@ input [type="text"], input [type="number"], input [type="date"], input [type="fi
     width: 400px;
 }
 
+textarea {
+    padding: 10px 5px;
+}
+
+.cabecalho {
+    height: 160px;
+    padding: 20px;
+    background-color: #673ab7;
+}
