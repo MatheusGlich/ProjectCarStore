@@ -48,3 +48,9 @@ textarea {
     position: relative;
     top: -46px;
 }
+
+.form-header {
+    border-bottom: 1px solid #dfdfdf;
+    height: 45px;
+}
+
