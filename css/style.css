@@ -41,7 +41,7 @@ textarea {
     margin-top: 0;
 }
 
-form-container {
+.form-container {
     background-color: #dfdfdf;
     width: 60%;
     margin: 0 auto;
