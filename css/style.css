@@ -35,3 +35,8 @@ textarea {
     padding: 20px;
     background-color: #673ab7;
 }
+
+.cabecalho h3{
+    color: #fff;
+    margin-top: 0;
+}
