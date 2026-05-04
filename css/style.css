@@ -99,3 +99,13 @@ textarea {
     margin-bottom: 5px;
 }
 
+.btn-submit {
+    background-color: #673ab7;
+    color: #fff;
+    border: 2px solid transparent;
+    width: 150px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
